@@ -13,10 +13,9 @@ sqlalchemy==2.0.30
 psycopg2-binary==2.9.9
 alembic==1.13.1
 
-# PDF parsing
+# PDF parsing (free)
 pdfplumber==0.11.0
 PyMuPDF==1.24.0
-pytesseract==0.3.10
 
 # ML
 scikit-learn==1.5.0
